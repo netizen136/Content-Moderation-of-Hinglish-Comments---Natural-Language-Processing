@@ -2,6 +2,8 @@
 
 This repository contains multiple approaches for Hate Speech Detection in Hindi-English Code-Mixed Data. The task is to perform a multi-class classification of the Hinglish data into three classes : Positive, Negative and Neutral.
 
+![image](https://user-images.githubusercontent.com/66362309/131041136-a84270e9-3de3-432e-93cf-3108e9c17661.png)
+
 Method 1 : Profanity-weighted approach
 
 This method takes care of Hinglish profane words in a sentence and thus generates powerful sentence embeddings specifically for Hinglish content.
